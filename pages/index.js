@@ -14,9 +14,8 @@ export default function Home() {
       </Head>
 
       <Header />
-
-      {/* Feed */}
       <Feed />
+
       {/* Modal */}
     </div>
   );
